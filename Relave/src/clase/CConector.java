@@ -1,4 +1,4 @@
-
+//Conexion con base de datos
 package clase;
 
 /**
